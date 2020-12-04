@@ -1,0 +1,17 @@
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\Shoes.vbprojAssemblyReference.cache
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.frmchitiethd.resources
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.frmhoadon.resources
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.frmkhachhang.resources
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.frmloaisanpham.resources
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.frmsanpham.resources
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.frmmain.resources
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\Shoes.vbproj.GenerateResource.cache
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\Shoes.vbproj.CoreCompileInputs.cache
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\chith\OneDrive\Máy tính\BanHang-master\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
